@@ -6,5 +6,5 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  returns string.logShout()
+  return string.logShout()
 }
